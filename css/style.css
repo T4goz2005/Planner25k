@@ -266,7 +266,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     position: relative;
     padding: 90px 0;
     margin-top: 90px;
-    background: linear-gradient(rgba(256, 256, 256, 0.7), rgba(256, 256, 256, 0.8)), url(img/41b4ca31-94bb-4b51-b900-ee4336e0b1c8.jpg);
+    background: linear-gradient(rgba(256, 256, 256, 0.7), rgba(256, 256, 256, 0.8)), url(./img/41b4ca31-94bb-4b51-b900-ee4336e0b1c8.jpg);
 
     background-position: center;
     background-repeat: no-repeat;
