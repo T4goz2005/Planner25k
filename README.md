@@ -41,4 +41,4 @@ O projeto utiliza as seguintes tecnologias:
    Para começar, clone este repositório em sua máquina local utilizando o Git:
 
    ```bash
-   git clone https://github.com/seu-usuario/planner2025.git
+   git clone [https://github.com/seu-usuario/planner2025.git](https://github.com/T4goz2005/Planner25k)
