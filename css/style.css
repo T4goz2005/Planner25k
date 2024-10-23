@@ -262,17 +262,16 @@ body.mobile-nav-active #mobile-nav-toggle {
 /**********************************/
 /*********** Header CSS ***********/
 /**********************************/
-#header {
+/* #header {
     position: relative;
     padding: 90px 0;
     margin-top: 90px;
     background: linear-gradient(rgba(256, 256, 256, 0.7), rgba(256, 256, 256, 0.8)), url(./img/41b4ca31-94bb-4b51-b900-ee4336e0b1c8.jpg);
-
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-}
+} */
 
 #header .header-content {
     width: 100%;
@@ -866,7 +865,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-weight: 600;
 }
 
-#testimonials{
+/* #testimonials{
     position: relative;
     padding: 90px 0;
     margin-top: 90px;
@@ -875,7 +874,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-}
+} */
 
 
 @media (max-width: 767.98px){
