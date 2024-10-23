@@ -894,16 +894,16 @@ body.mobile-nav-active #mobile-nav-toggle {
     text-transform: capitalize;
 }
 
-/* #header {
+#header {
     position: relative;
     padding: 50px 0;
     margin-top: 90px;
-    background: linear-gradient(rgba(256, 256, 256, 0.7), rgba(256, 256, 256, 0.8)), url(/img/foto3.jpg);
+    background: linear-gradient(rgba(256, 256, 256, 0.7), rgba(256, 256, 256, 0.8)), url(img/foto3.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-} */
+}
 
 .header-img{
     display: none;
