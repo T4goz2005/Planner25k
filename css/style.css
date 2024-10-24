@@ -388,7 +388,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     position: relative;
     width: 100%;
     float: left;
-    margin-bottom: 45px;
+    padding-bottom: 40px;
 }
 
 #feature .product-feature:last-child {
